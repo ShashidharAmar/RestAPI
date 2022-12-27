@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-26T19:03:07 IST" name="Default suite" finished-at="2022-12-26T19:03:09 IST" duration-ms="2184">
+    <groups>
+    </groups>
+    <test started-at="2022-12-26T19:03:07 IST" name="Default test" finished-at="2022-12-26T19:03:09 IST" duration-ms="2184">
+      <class name="BookValidation.AddBooks">
+        <test-method signature="addBook(java.lang.String,int)[pri:0, instance:BookValidation.AddBooks@2a54a73f]" started-at="2022-12-26T19:03:07 IST" name="addBook" data-provider="BookData" finished-at="2022-12-26T19:03:09 IST" duration-ms="1746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1212]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,int)[pri:0, instance:BookValidation.AddBooks@2a54a73f]" started-at="2022-12-26T19:03:09 IST" name="addBook" data-provider="BookData" finished-at="2022-12-26T19:03:09 IST" duration-ms="137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1221]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,int)[pri:0, instance:BookValidation.AddBooks@2a54a73f]" started-at="2022-12-26T19:03:09 IST" name="addBook" data-provider="BookData" finished-at="2022-12-26T19:03:09 IST" duration-ms="118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1232]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,int)[pri:0, instance:BookValidation.AddBooks@2a54a73f]" started-at="2022-12-26T19:03:09 IST" name="addBook" data-provider="BookData" finished-at="2022-12-26T19:03:09 IST" duration-ms="137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Book4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1241]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- BookValidation.AddBooks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
